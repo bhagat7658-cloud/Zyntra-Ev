@@ -1,11 +1,17 @@
-ZYNTRA EV — NILGIRI ELECTRIC SCOOTIES
----------------------------------------
-Showroom: Zyntra EV
-Address: Ganpatganj Road, Near Intercollege, Raghaopur
-Contact: Niraj Kumar — +91 74794 34464
+ZYNTRA EV — PREMIUM WEBSITE
 
 Files:
 - index.html
-- niraj-kumar.jpg
+- assets/niraj-kumar.jpg
 
-Upload both files together to Netlify, Vercel, GitHub Pages or any static web host.
+Business details:
+Zyntra EV
+Nilgiri Electric Scooties
+Ganpatganj Road, Near Intercollege, Raghaopur
+Niraj Kumar: +91 74794 34464
+
+Notes:
+- Scooter images are loaded from the official NeelgiriEV website so the live site needs internet access.
+- The Niraj Kumar photo is included locally.
+- WhatsApp, call and Google Maps buttons are active.
+- Responsive mobile layout included.
